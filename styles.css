@@ -1,0 +1,59 @@
+body {
+    font-family: 'Tapestry', cursive;
+    background-color:#EA3755  ;
+     text-align: center;
+}
+
+.navItem
+{
+    display: flex;
+    justify-content:center;
+    width:30%;
+}
+
+.navItem,
+.headerItem {
+    background-color: yellow ;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 3px;
+border-radius: 70%;
+   
+}
+ 
+.border {
+   
+    border: 9px solid black;
+    padding: 5px;
+    margin: 1px;
+   
+}
+
+.wall {
+  
+    background-color: white;
+width:98%;
+}
+
+.aboutMe,
+.friends {
+    width: 98%;
+    
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+}
+
+
